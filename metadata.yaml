@@ -1,5 +1,8 @@
 _repo: Marion-Harland-s-Complete-Cook-Book-A-Practical-and-Exhaustive-Manual-of-Cookery-and-Housekee__64459
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64459-h/images/cover.jpg
 creator:
   author:
     agent_name: Harland, Marion
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1818
     wikipedia: https://en.wikipedia.org/wiki/Mary_Virginia_Terhune
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64459#Marion-Harland-s-Complete-Cook-Book-A-Practical-and-Exhaustive-Manual-of-Cookery-and-Housekee_
 gutenberg_issued: '2021-02-05'
 gutenberg_type: Text
 identifiers:
